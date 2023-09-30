@@ -29,6 +29,7 @@
     "@nestjs/passport": "^9.0.3",
     "@nestjs/platform-express": "^9.0.0",
     "bcrypt": "^5.1.0",
+    "compression": "^1.7.4",
     "ejs": "^3.1.8",
     "firebase": "^10.1.0",
     "handlebars": "^4.7.7",
